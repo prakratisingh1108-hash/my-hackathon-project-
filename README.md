@@ -24,6 +24,5 @@ A simple hackathon project built by college students in India to learn GitHub & 
 - Name 2 - Designer
 
 ## 🔗 Demo
-Live Link: (yaha apna link daalna jab ban jaye)
-
+Live Link: https://github.com/prakratisingh1108-hash/my-hackathon-project-
 Made with ❤️ for Hackathon
