@@ -1,2 +1,29 @@
-# my-hackathon-project-
-My Hackathon Project | Built by college builders in India  A simple hackathon project to learn GitHub, Claude Code &amp; teamwork.  Features: Login page, Clean UI, Working demo. Tech: HTML, CSS, JavaScript
+# My Hackathon Project 🚀
+
+A simple hackathon project built by college students in India to learn GitHub & teamwork.
+
+## ✨ Features
+- Login Page
+- Clean & Simple UI
+- Mobile Friendly Design
+- Working Demo
+
+## 🛠️ Tech Used
+- HTML
+- CSS
+- JavaScript
+- GitHub
+
+## ▶️ How to Run
+1. Download this repo
+2. Open `index.html` in browser
+3. Done!
+
+## 👥 Team
+- Name 1 - Developer
+- Name 2 - Designer
+
+## 🔗 Demo
+Live Link: (yaha apna link daalna jab ban jaye)
+
+Made with ❤️ for Hackathon
